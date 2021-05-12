@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvCodigo" type="id" />
+    <item name="tvDescripcion" type="id" />
+    <item name="tvPrecio" type="id" />
+    <item name="cardProducto" type="id" />
+    <item name="searchProduct" type="id" />
+    <item name="rcvProductos" type="id" />
+    <item name="floatingActionButton" type="id" />
+    <item name="edtCodigo" type="id" />
+    <item name="edtDescripcion" type="id" />
+    <item name="edtPrecio" type="id" />
+</resources>
